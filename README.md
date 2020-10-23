@@ -1,19 +1,18 @@
 ### Hi there, I'm Michał 👋
 
 - 🔭 I’m currently working on JS Calendar app
-- 🌱 I’m currently improving my skills in JavaSCript
+- 🌱 I’m currently improving my skills in JavaScript
 - 👯 I’m looking for my first commercial job in IT
 - :boom: I love to learn new things also languages, currently pursuing Russian :muscle:
-
 
 ### Connect with me:
 
 [<img align="left" alt="michalmarszalek.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitLab" width="25px" src="https://about.gitlab.com/images/press/logo/jpg/gitlab-icon-1-color-black-rgb.jpg" />][gitlab]
 
 
 <br />
+<br/>
 
 ### Languages and Tools:
 
@@ -38,9 +37,9 @@
 
 
 <img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
-<img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" />
 
-<img align="left" alt="GitLab" width="26px" src="https://about.gitlab.com/images/press/logo/jpg/gitlab-icon-1-color-black-rgb.jpg" />
+<img align="left" alt="GitLab" width="30px" src="https://about.gitlab.com/images/press/logo/jpg/gitlab-icon-1-color-black-rgb.jpg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Selenium" width="26px" src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" />
@@ -48,6 +47,8 @@
 
 <br/>
 <br/>
+<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marszalekm&layout=compact)](https://github.com/marszalekm/github-readme-stats)
 
