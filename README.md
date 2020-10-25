@@ -5,7 +5,7 @@
 - 👯 I’m looking for my first commercial job in IT
 - :boom: I love to learn new things also languages, currently pursuing Russian :muscle:
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" alt="michalmarszalek.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
