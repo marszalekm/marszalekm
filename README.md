@@ -35,10 +35,6 @@
 <img align="left" alt="MySQL" width="44px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
-
-<img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
-<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" />
-
 <img align="left" alt="GitLab" width="30px" src="https://about.gitlab.com/images/press/logo/jpg/gitlab-icon-1-color-black-rgb.jpg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
