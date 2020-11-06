@@ -1,7 +1,7 @@
 ### Hi there, I'm Michał 👋
 
-- 🔭 I’m currently working on JS Calendar app
-- 🌱 I’m currently improving my skills in JavaScript
+- 🔭 I’m currently working on deployment of my apps
+- 🌱 I’m currently improving my skills in DevOps issues
 - 👯 I’m looking for my first commercial job in IT
 - :boom: I love to learn new things also languages, currently pursuing Russian :muscle:
 
@@ -23,7 +23,6 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JQuery" width="26px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -31,6 +30,8 @@
 
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
 <img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
+<img align="left" alt="Nginx" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKjnATudJj6HbqPUpS9s56GhiWugp-CtbB_w&usqp=CAU" />
+
 
 <img align="left" alt="MySQL" width="44px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
