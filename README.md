@@ -20,8 +20,10 @@
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
 
-<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
+<img align="left" alt="Docker" width="28px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
 <img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
+<img align="left" alt="Azure" width="30px" src="https://azurementor.files.wordpress.com/2017/10/azure-logo.jpg" />
+
 <img align="left" alt="Nginx" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQKjnATudJj6HbqPUpS9s56GhiWugp-CtbB_w&usqp=CAU" />
 <img align="left" alt="Jenkins" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png" />
 <img align="left" alt="Ansible" width="30px" src="https://user-images.githubusercontent.com/38637223/44164304-83a6c880-a07a-11e8-9e88-a68225815756.png" />
