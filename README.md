@@ -28,7 +28,7 @@
 <img align="left" alt="Jenkins" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png" />
 <img align="left" alt="Ansible" width="30px" src="https://user-images.githubusercontent.com/38637223/44164304-83a6c880-a07a-11e8-9e88-a68225815756.png" />
 
-<img align="left" alt="MySQL" width="44px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
+<img align="left" alt="MySQL" width="28px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
 <img align="left" alt="Django" width="26px" src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg" />
