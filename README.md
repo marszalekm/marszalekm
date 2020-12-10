@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on deployment of my apps as CI/CD pipeline. Check also my GitLab profile  [<img width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/260px-GitLab_Logo.svg.png" />][gitlab], where I am working on this project.
 - 🌱 I’m currently improving my skills in DevOps issues.
-- 👯 I’m looking for my first commercial job in IT.
-- :boom: I love to learn new things also languages, currently pursuing Russian. :muscle:
+- :boom: I love to learn new things also languages, currently pursuing Russian and German. :muscle:
 
 ### Contact me:
 
